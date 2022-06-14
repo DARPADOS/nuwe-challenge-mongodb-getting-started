@@ -1,6 +1,7 @@
 # MongoDB getting started
 
 [![](https://img.shields.io/badge/nuwe-challenge%20backend-6bc164?style=flat)](https://nuwe.io/challenge/mongodb-getting-started)
+[![CodeFactor](https://www.codefactor.io/repository/github/darpados/nuwe-challenge-mongodb-getting-started/badge)](https://www.codefactor.io/repository/github/darpados/nuwe-challenge-mongodb-getting-started)
 
 _Este repositorio es la solución a un reto de [Nuwe](https://nuwe.io/challenge/mongodb-getting-started)._
 
