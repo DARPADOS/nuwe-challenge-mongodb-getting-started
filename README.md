@@ -1,6 +1,7 @@
 # MongoDB getting started
 
 [![](https://img.shields.io/badge/nuwe-challenge%20backend-6bc164?style=flat)](https://nuwe.io/challenge/mongodb-getting-started)
+
 _Este repositorio es la solución a un reto de [Nuwe](https://nuwe.io/challenge/mongodb-getting-started)._
 
 Un API en node.js que sirve un crud básico de usuarios. Usa express, mongodb y mongoose.
@@ -14,19 +15,19 @@ Un API en node.js que sirve un crud básico de usuarios. Usa express, mongodb y 
 ## Tasks
 
 ```
-  ✅ Task 1 → El servidor se conecta a MongoDB (local o online)
+✅ Task 1 → El servidor se conecta a MongoDB (local o online)
 
-  ✅ Task 2 → Se puede ver el modelo de usuario creado
+✅ Task 2 → Se puede ver el modelo de usuario creado
 
-  ✅ Task 3 → Hay un controlador para crear el usuario
+✅ Task 3 → Hay un controlador para crear el usuario
 
-  ✅ Task 4 → Hay un controlador para borrar el usuario
+✅ Task 4 → Hay un controlador para borrar el usuario
 
-  ✅ Task 5 → Hay un controlador para devolver el usuario
+✅ Task 5 → Hay un controlador para devolver el usuario
 
-  ✅ Task 6 → Hay un controlador para actualizar el usuario
+✅ Task 6 → Hay un controlador para actualizar el usuario
 
-  ✅ Task 7 → Se puede levantar el servidor y realizar las acciones anteriores
+✅ Task 7 → Se puede levantar el servidor y realizar las acciones anteriores
 ```
 
 ## Api
@@ -101,21 +102,21 @@ User = {
 Primero, clonamos y instalamos el proyecto.
 
 ```shell
-  git clone https://github.com/DARPADOS/nuwe-challenge-mongodb-getting-started.git
+git clone https://github.com/DARPADOS/nuwe-challenge-mongodb-getting-started.git
 
-  npm install
+npm install
 ```
 
 Luego configuramos la variable de entorno `MONGODB_URL` en el archivo `.env`.
 
 ```js
-  MONGODB_URL:        //mongodb://mongo:mongo@localhost:27017
+MONGODB_URL:        //mongodb://mongo:mongo@localhost:27017
 ```
 
 Para iniciar el servidor puede usar el siguiente comando.
 
 ```shell
-  npm run dev
+npm run dev
 ```
 
 ## Testing
